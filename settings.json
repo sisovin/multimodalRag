@@ -1,0 +1,1 @@
+{"model_options": ["gemma2:latest", "llama3.1:latest", "llama3.2:1b", "llama3.2:3b", "llama3.2:latest", "nomic-embed-text:latest", "phi:latest", "phi3.5:latest", "qwen2.5:latest", "starcoder2:3b"], "selected_model": "llama3.2:3b"}
