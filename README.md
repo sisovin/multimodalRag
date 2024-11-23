@@ -1,4 +1,3 @@
-```markdown
 # multimodalRag Project
 
 ## Table of Contents
@@ -88,4 +87,3 @@ streamlit
 streamlit-chat
 requests
 asyncio
-```
